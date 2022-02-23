@@ -24,6 +24,7 @@ body{
 
 #main p{
     margin-bottom: 1.2rem;
+    text-transform: capitalize;
 }
 #main figure{
     padding: 15px 20px 8px 20px;
