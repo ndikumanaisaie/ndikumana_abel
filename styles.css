@@ -1,0 +1,69 @@
+/*css reset*/
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    line-height: 1.5;
+}
+
+#main{
+    text-align: center;
+    padding: 40px 30px;
+    margin: 4rem 3rem;
+    background-color: #dadadafb;
+    border-radius: 7px;
+}
+
+#main h1{
+    font-size: 3rem;
+    margin-bottom: 18px;
+}
+
+#main p{
+    margin-bottom: 1.2rem;
+}
+#main figure{
+    padding: 15px 20px 8px 20px;
+    background-color:white;
+}
+
+#image{
+    max-width: 100%;
+}
+
+#main figure figcaption{
+    padding-top: .9rem;
+    padding-bottom: .7rem;
+}
+
+#main #tribute-info h2{
+    margin-top:50px ;
+    margin-bottom: 50px;
+}
+
+#main #tribute-info ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#main #tribute-info ul li{
+    margin: 16px 0;
+}
+
+#main blockquote{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+a{
+    color: #6767e6;
+}
+a:visited{
+    color: #74638f;
+}
