@@ -34,6 +34,7 @@ body{
 
 #main .main-section .main-article p {
     margin-bottom: 1rem;
+    text-align: justify;
 }
 
 #main #desc-page{
