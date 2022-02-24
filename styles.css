@@ -32,6 +32,10 @@ body{
     line-height: 1.6;
 }
 
+#main .main-section #first-header{
+    margin-top: 2rem;
+}
+
 #main .main-section .main-article p {
     margin-bottom: 1rem;
     text-align: justify;
