@@ -17,14 +17,28 @@ body{
     border-radius: 7px;
 }
 
-#main h1{
-    font-size: 3rem;
-    margin-bottom: 18px;
+#main .main-section header {
+    font-size: 2rem;
+    padding: 1rem 0;
+  }
+
+#main .main-section .main-article {
+    padding-left: 1.5rem;
+    margin-bottom: .5rem;
+    color: #222;
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
 }
 
-#main p{
+#main .main-section .main-article p {
+    margin-bottom: 1rem;
+}
+
+#main #desc-page{
     margin-bottom: 1.2rem;
-    text-transform: capitalize;
+    text-transform: None;
 }
 #main figure{
     padding: 15px 20px 8px 20px;
@@ -40,25 +54,9 @@ body{
     padding-bottom: .7rem;
 }
 
-#main #tribute-info h2{
-    margin-top:50px ;
-    margin-bottom: 50px;
-}
-
-#main #tribute-info ul{
-    max-width: 550px;
-    margin: 0 auto 50px auto;
-    text-align: left;
-    line-height: 1.6;
-}
-
-#main #tribute-info ul li{
-    margin: 16px 0;
-}
-
 #main blockquote{
     font-style: italic;
-    max-width: 545px;
+    max-width: 800px;
     margin: 0 auto 50px auto;
     text-align: left;
 }
